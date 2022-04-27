@@ -61,7 +61,7 @@ Leadership styles – Developing Leadership skills – Leadership assessment –
 - Understand lifecycle management and choose an appropraite process model (K3)
 - Identify existing risk and perform risk assessment (K3)
 - Choose appropriate software metric for software project management (K3)
-- Outline leadership styles and team building. (K3)
+- Outline leadership styles and team building. (K2)
 
 
 #+BEGIN_COMMENT
