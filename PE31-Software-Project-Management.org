@@ -18,17 +18,7 @@
 - Appreciate the use of metrics for software project management
 - Know the challenges in people management
 
-#+BEGIN_COMMENT
-Software project management course describes the key aspects of a
-managerial process in Software organization. It addresses the topics
-related to project planning, estimation, and scheduling. The more
-prominent software development practices, Agile and DevOps software
-development is introduced in this course. The major software
-activities security and risk management concerned with software
-development are also covered. This course introduces the monitoring
-skill and performance evaluation of the team which is very vital for
-the Software project managers.
-#+END_COMMENT
+
 
 {{{unit}}}
 |Unit I|Project Management and Costing 	|9|
@@ -64,16 +54,6 @@ Leadership styles – Developing Leadership skills – Leadership assessment –
 - Outline leadership styles and team building. (K2)
 
 
-#+BEGIN_COMMENT
-Upon completion of the course, the student should be able to:
-- Apply management skills and techniques to develop commercial software projects
-- Selecting a process model for software development.
-- Produce cost to manage the software development and maintenance.
-- To develop a project using agile and devops software development practices
-- Study the activities of security and risk in various types of software projects.
-- Balancing the software development  activities to deliver a product.
-- Perform the managerial process of measuring the people involved in development. 
-#+END_COMMENT
 
 
 ** References
