@@ -1,7 +1,7 @@
 * <<<CP1322>>> SOFTWARE PROJECT MANAGEMENT
 :properties:
 :author:  Angel Deborah S
-:date: 27 April 2022
+:date: 27 April 2022   
 :end:
 
 #+startup: showall
